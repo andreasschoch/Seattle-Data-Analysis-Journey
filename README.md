@@ -45,7 +45,7 @@ contains reviews.csv - unique id for each reviewer and detailed comments
 
 ## Results <a name="results"></a>
 
-The results can be found in the blog post [here](https://www.kaggle.com/chocoschoch/analysis-of-airbnb-data-for-munich-octoberfest).
+The results can be found in the blog post [here](https://www.kaggle.com/code/andreasschoch/seattle-data-analysis-journey-of-airbnb-data).
 
 Summary of the three key findings:  
 
